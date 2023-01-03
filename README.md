@@ -1,5 +1,7 @@
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/><img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/>
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -22,7 +24,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/><img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/>
+</div>
 
 <!--
 **1KRS/1KRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
