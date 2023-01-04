@@ -27,7 +27,7 @@
 ---
 
 <div id="header" align="center">
-  <h3>:man_technologist: About Me :man_technologist: </h3>
+  <h3>:man_technologist: Σχετικά Με Εμένα --- About Me :man_technologist: </h3>
 </div>
 
 </br>
@@ -113,13 +113,13 @@
 ---
 
 <div id="header" align="center">
-  <h3>🔥 My Stats 🔥</h3> 
+  <h3>🔥 Τα Στατιστικά Μου --- My Stats 🔥</h3> 
 </div>
 
 <div id="stats" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com? user=1krs&theme=yellowdark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
   </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1krs&show_icons=true&theme=radical"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1krs&show_icons=true&theme=transparent&hide_title=true&hide_border=true&card_width=460px&layout=compact"/></a>
 </div>
 
 <!--
