@@ -116,10 +116,9 @@
   <h3>🔥 My Stats 🔥</h3> 
 </div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1krs)](https://git.io/streak-stats)
-
-
+<div id="header" align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com? user=1krs&theme=yellowdark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
+</div>
 
 <!--
 **1KRS/1KRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
