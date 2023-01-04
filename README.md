@@ -66,7 +66,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" title="Github" **alt="Github" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" **alt="Google" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
@@ -78,12 +78,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="41" height="41"/>&nbsp;
   <img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" title="Codepen" **alt="Codepen" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
-  </br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="WebPack" **alt="WebPack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line.svg" title="Safari" **alt="Safari" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" **alt="Chrome" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" title="Firefox" **alt="Firefox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" **alt="Opera" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="WebPack" **alt="WebPack" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png" title="WordPress" **alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" title="WIX" alt="WIX" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/file-type-wpml-icon-430x512-h9lh9ke7.png" title="WPML" alt="WPML" width="40" height="40"/>&nbsp;
