@@ -52,33 +52,11 @@
 ---
 
 <div id="header" align="center">
-  <h3>:envelope: How to reach me :envelope:</h3> 
-</div>
-  
-</br>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/δημήτρης-μανωλόπουλος-86a19217a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/><img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/>
-</div>
-
-</br>
-
----
-
-<div id="header" align="center">
   <h3>:hammer_and_wrench: Languages and Tools :hammer_and_wrench:
 </div>
 
   
-<div>
+<div align="center">
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -111,6 +89,36 @@
   <img src="https://static-00.iconduck.com/assets.00/file-type-wpml-icon-430x512-h9lh9ke7.png" title="WPML" alt="WPML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce" **alt="WooCommerce" width="40" height="40"/>&nbsp;
 </div>  
+
+---
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/><img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/>
+</div>
+
+---
+
+<div id="header" align="center">
+  <h3>✉️ How to reach me ✉️</h3> 
+</div>
+  
+</br>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/δημήτρης-μανωλόπουλος-86a19217a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+---
+
+<div id="header" align="center">
+  <h3>🔥 My Stats 🔥</h3> 
+</div>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1krs)](https://git.io/streak-stats)
+
 
 
 <!--
