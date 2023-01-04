@@ -83,9 +83,12 @@ I am a <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" wid
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS" **alt="TS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" **alt="Opera" width="40" height="40"/>&nbsp;
+  </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line.svg" title="Safari" **alt="Safari" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line.svg" title="Chrome" **alt="Chrome" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" title="Firefox" **alt="Firefox" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" **alt="Opera" width="40" height="40"/>&nbsp;
+  </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="WebPack" **alt="WebPack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce" **alt="WooCommerce" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png" title="WordPress" **alt="WordPress" width="40" height="40"/>&nbsp;
