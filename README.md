@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>(#about-me)
 </h3>
 
-[Ελληνικά](#ελληνικά)  [English](#about-me)
+[:greece:](#σχετικα-με-εμενα)  [:uk:](#:man-technologist:-about-me)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
@@ -38,8 +38,9 @@
 
 ---
 
+### :man_technologist: About me
 <div id="header" align="center">
-  <h3>:man_technologist: About Me :man_technologist: </h3>
+  <h3>:man_technologist: About Me :man_technologist: 
 </div>
 
 </br>
@@ -57,6 +58,8 @@ I am a <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" wid
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/><img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/>
 </div>
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **1KRS/1KRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
