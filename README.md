@@ -4,30 +4,58 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="150"/>
 </div>
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=1KRS&color=yellowgreen&label=Θεάσεις+/+Views" alt=""/>
-</div>
-
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Καλώς ήλθες --- Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/vLao2Cp0dSBv8rrec4/giphy.gif" width="30px"/>(#ελληνικά)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>(#about-me)
-</h3>
-
+<!--
 :point_right: [:greece:](#σχετικα-με-εμενα)  [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>](#about-me) 
 [<img src="https://www.flaticon.com/free-icon/sweden_197564](#about-me)
+-->
+
+</br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=1KRS&color=yellowgreen&label=Θεάσεις+/+Views" alt=""/>
+</div>
 
+---
+
+<div id="header" align="center">
+  <h3>:man_technologist: About Me :man_technologist: </h3>
+</div>
+
+</br>
+
+<div id="header" align="center">
+  I am a <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="15"> Full Stack Developer from 🇬🇷 Thessaloniki, Hellas (Greece).
+  
+  </br>
+  </br>
+
+  :house: Currently I’m living in 🇸🇪 Stockholm, Sweden :house: 
+  
+  :briefcase: and working as a consultant at **School of Applied Technology**. :briefcase:
+  
+  :telescope: Mainly I'm contributing to frontend and backend for building web applications. :telescope:
+
+  :seedling: Developing coding skills in various technologies. :seedling:
+
+  :zap: In my free time, I develop my coding skills in codewars and learn new technologies. :zap:
+</div>
+
+---
+
+<div id="header" align="center">
+  <h3>:envelope: How to reach me :envelope:</h3> 
+</div>
+  
+</br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/δημήτρης-μανωλόπουλος-86a19217a/" target="_blank" rel="noopener noreferrer">
@@ -35,32 +63,20 @@
   </a>
 </div>
 
-
-
 ---
-
-### About me
-<div id="header" align="center">
-  <h3>:man_technologist: About Me :man_technologist: 
-</div>
-
-</br>
-
-I am a <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="15"> Full Stack Developer from Hellas 🇬🇷 (Greece).
-
-- :telescope: I’m working as a consultant at </Salt> and contributing to frontend and backend for building web applications.
-
-- :seedling: Developing coding skills in various technologies.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/><img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+</br>
+
+---
+
+<div id="header" align="center">
+  <h3>:hammer_and_wrench: Languages and Tools :hammer_and_wrench:
+</div>
+
   
 <div>
   </br>
