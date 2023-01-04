@@ -52,7 +52,7 @@
 ---
 
 <div id="header" align="center">
-  <h3>:hammer_and_wrench: Languages and Tools :hammer_and_wrench:
+  <h3>:hammer_and_wrench: Γλώσσες & Εργαλεία --- Languages & Tools :hammer_and_wrench:
 </div>
 
   
@@ -99,7 +99,7 @@
 ---
 
 <div id="header" align="center">
-  <h3>✉️ How to reach me ✉️</h3> 
+  <h3>✉️ Πού θα με βρείτε --- How to reach me ✉️</h3> 
 </div>
   
 </br>
@@ -116,8 +116,10 @@
   <h3>🔥 My Stats 🔥</h3> 
 </div>
 
-<div id="header" align="center">
+<div id="stats" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com? user=1krs&theme=yellowdark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
+  </br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1krs&show_icons=true&theme=radical"/></a>
 </div>
 
 <!--
