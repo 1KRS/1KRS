@@ -38,15 +38,15 @@
   </br>
   </br>
 
-  :house: Currently I’m living in 🇸🇪 Stockholm, Sweden :house: 
+  🏠 Currently I’m living in 🇸🇪 Stockholm, Sweden 🏠 
   
-  :briefcase: and working as a consultant at **School of Applied Technology**. :briefcase:
+  💼 and working as a consultant at **School of Applied Technology**. 💼
   
-  :telescope: Mainly I'm contributing to frontend and backend for building web applications. :telescope:
+  🔭 Mainly I'm contributing to frontend and backend for building web applications. 🔭
 
-  :seedling: Developing coding skills in various technologies. :seedling:
+  🌱 Developing coding skills in various technologies. 🌱
 
-  :zap: In my free time, I develop my coding skills in codewars and learn new technologies. :zap:
+  ⚡ In my free time, I develop my coding skills in codewars and learn new technologies. ⚡
 </div>
 
 ---
@@ -76,7 +76,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" **alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="41" height="41"/>&nbsp;
-  <img src="https://www.nicepng.com/maxp/u2q8i1a9u2a9r5t4/" title="Codepen" **alt="Codepen" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" title="Codepen" **alt="Codepen" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line.svg" title="Safari" **alt="Safari" width="40" height="40"/>&nbsp;
@@ -99,7 +99,7 @@
 ---
 
 <div id="header" align="center">
-  <h3>✉️ Πού θα με βρείτε --- How to reach me ✉️</h3> 
+  <h3>📫 Πού θα με βρείτε --- How to reach me 📫</h3> 
 </div>
   
 </br>
