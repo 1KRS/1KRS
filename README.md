@@ -60,12 +60,12 @@
   </br>
   <img src="https://github.com/1KRS/Logos/blob/main/Javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/HTML5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1KRS/Logos/commit/ebab154c91043d73ff95f45d5806be06229f3335"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/CSS3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/React.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/React%20Native.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/240px-Status_iucn_EX_icon.svg.png" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/VSCode.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" title="Github" **alt="Github" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" **alt="Google" width="40" height="40"/>&nbsp;
