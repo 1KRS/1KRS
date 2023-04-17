@@ -59,10 +59,10 @@
 <div align="center">
   </br>
   <img src="https://github.com/1KRS/Logos/blob/main/Javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/HTML5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/1KRS/Logos/main/React%20Native.svg?token=GHSAT0AAAAAAB475NU2KHXBVD5ZIGFFZ3TUZB26QTA" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/React.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/React%20Native.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/240px-Status_iucn_EX_icon.svg.png" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
