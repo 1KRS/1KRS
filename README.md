@@ -34,7 +34,7 @@
 
 <div id="header" align="center">
   I am a <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="15"> Full Stack Developer from 🇬🇷 Thessaloniki, Hellas (Greece)
-
+</br>
   🏠 Currently I’m living in 🇸🇪 Stockholm, Sweden 🏠 
 
   💼 and i'm in the process of finding a workplace that can help me grow. 💼
