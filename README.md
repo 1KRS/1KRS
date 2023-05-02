@@ -64,7 +64,7 @@
   <img src="https://github.com/1KRS/Logos/blob/main/React.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/React%20Native.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/Express.svg" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1KRS/Logos/blob/main/apple.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/Apple.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/VSCode.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" title="Github" **alt="Github" width="43" height="43"/>&nbsp;
