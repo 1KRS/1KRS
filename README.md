@@ -34,19 +34,17 @@
 
 <div id="header" align="center">
   I am a <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="15"> Full Stack Developer from 🇬🇷 Thessaloniki, Hellas (Greece).
-  
-  </br>
-  </br>
+ 
 
   🏠 Currently I’m living in 🇸🇪 Stockholm, Sweden 🏠 
   
-  💼 and working as a consultant at **School of Applied Technology**. 💼
+  💼 and i'm in the process of finding a workplace that can help me grow. 💼
   
-  🔭 Mainly I'm contributing to frontend and backend for building web applications. 🔭
+  🔭 Mainly I'm contributing to frontend and backend for building web and mobile applications. 🔭
 
-  🌱 Developing coding skills in various technologies. 🌱
+  🌱 Developing coding skills in various technologies is what i'm aiming at the moment. 🌱
 
-  ⚡ In my free time, I develop my coding skills in codewars and learn new technologies. ⚡
+  ⚡ In my free time, I read books, socializng and i walk in the woods. ⚡
 </div>
 
 ---
