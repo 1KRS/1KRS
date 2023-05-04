@@ -77,7 +77,7 @@
   <img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" title="Codepen" **alt="Codepen" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/Firebase.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="WebPack" **alt="WebPack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/Webpack.svg" title="WebPack" **alt="WebPack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line.svg" title="Safari" **alt="Safari" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" **alt="Chrome" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" title="Firefox" **alt="Firefox" width="40" height="40"/>&nbsp;
