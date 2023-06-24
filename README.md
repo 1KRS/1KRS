@@ -64,7 +64,7 @@
   <img src="https://github.com/1KRS/Logos/blob/main/Apple.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/VSCode.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1KRS/Logos/blob/main/Git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" title="Github" **alt="Github" width="43" height="43"/>&nbsp;
+  <img src="https://github.com/1KRS/Logos/blob/main/Github.svg" title="Github" **alt="Github" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" **alt="Google" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
